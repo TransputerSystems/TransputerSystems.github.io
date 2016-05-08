@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="183.93268mm"
+   height="139.86954mm"
+   viewBox="0 0 651.72996 495.60072"
+   id="svg4468"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-alone.svg">
+  <defs
+     id="defs4470" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-356.27781"
+     inkscape:cy="127.8004"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4473">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.992096,-164.56189)">
+    <g
+       inkscape:export-ydpi="120"
+       inkscape:export-xdpi="120"
+       inkscape:export-filename="C:\Users\ross\Documents\Work\2015 University of Bristol\COMS20805 Software Product Engineering\images\logo-square.png"
+       id="g4449"
+       transform="translate(1546.7558,-4264.4273)">
+      <g
+         style="fill:#ffffff;stroke:#000000;stroke-width:3.12849784;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g4451"
+         transform="matrix(1.9287059,0,0,1.9287059,-2087.6352,2312.9829)">
+        <path
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.12849784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 506.34276,1352.1363 129.61967,-149.8469 0,-16.5121 -193.1911,-87.1011 -7.84323,0 -133.74767,135.8117 0,16.9249 z"
+           id="path4453"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4455"
+         y="4761.75"
+         x="-1428.355"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:352.48660278px;line-height:125%;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="4761.75"
+           x="-1428.355"
+           id="tspan4457"
+           sodipodi:role="line">tss</tspan></text>
+    </g>
+  </g>
+</svg>

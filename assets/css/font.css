@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "CooperHewitt-Bold";
+  src: url("../font/CooperHewitt-Bold.woff") format("woff"), url("font/CooperHewitt-Bold.eot") format("eot");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Medium";
+  src: url("../font/CooperHewitt-Medium.woff") format("woff"), url("font/CooperHewitt-Medium.eot") format("eot");
+}
+
+@font-face {
+  font-family: "CooperHewitt-MediumItalic";
+  src: url("../font/CooperHewitt-MediumItalic.woff") format("woff"), url("font/CooperHewitt-MediumItalic.eot") format("eot");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Light";
+  src: url("../font/CooperHewitt-Light.woff") format("woff"), url("font/CooperHewitt-Light.eot") format("eot");
+}
+
+@font-face {
+  font-family: "CooperHewitt-LightItalic";
+  src: url("../font/CooperHewitt-LightItalic.woff") format("woff"), url("font/CooperHewitt-LightItalic.eot") format("eot");
+}
+
+@font-face {
+  font-family: "CooperHewitt-Book";
+  src: url("../font/CooperHewitt-Book.woff") format("woff"), url("font/CooperHewitt-Book.eot") format("eot");
+}
